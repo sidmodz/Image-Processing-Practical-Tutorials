@@ -11,7 +11,7 @@ In each folder, you will find the .ipynb file, the pdf version alongside with th
 
 ## Tutorials
 The repository contains the following tutorials:<br>
-Tutorial 1: <br>
-Tutorial 2: <br>
+Tutorial 1:Introduction to image processing, histogram equalization, histogram normalization... <br>
+Tutorial 2:Introduction to image enhancement, image filtering, filtering in the frequency domaine, contrast improvement ... <br>
 ## Conclusion
 These practical tutorials can serve as an introduction for image processing using Python and Jupyter Notebook.<br>
